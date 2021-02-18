@@ -1,4 +1,4 @@
-## 1. Relato da _Sprint_ 
+## 1. Relato da _Sprint_ 1
 
 <p align="justify">&emsp;&emsp;Na Sprint 1 o foco estava na organização do repositório, criação da documentação inicial, e na instalação e estudo do Python.</p>
 <p align="justify">&emsp;&emsp;O estudo da metodologia Scrum também foi integral, pois nenhum membro do grupo tinha conhecimento prévio das práticas necessárias.</p>
