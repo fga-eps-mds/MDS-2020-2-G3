@@ -1,4 +1,4 @@
-## 1. Relato da _Sprint_
+## 1. Relato da _Sprint_ 0
 
 <p align="justify">&emsp;&emsp;Como essa foi a primeira Sprint, o grupo passou a maior parte do tempo de reunião discutindo ideias de temas para o projeto, enquanto cada um estudava sobre o GitHub por conta própria.</p>
 
