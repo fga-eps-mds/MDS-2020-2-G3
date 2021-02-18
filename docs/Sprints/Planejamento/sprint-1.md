@@ -16,7 +16,7 @@
 
 ## 3. Sprint Backlog
 
-[Milestone](https://github.com/fga-eps-mds/MDS-2020-2-G3/milestones/2) da _Sprint_
+[Milestone](https://github.com/fga-eps-mds/MDS-2020-2-G3/milestone/2) da _Sprint_
 
 
 ## 4. Débitos Acumulados
